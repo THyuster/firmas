@@ -30,6 +30,7 @@ export default {
       contexto.stroke();
     }
   });
+  
 
   canvas.addEventListener('mouseup', function () {
     dibujando = false;
